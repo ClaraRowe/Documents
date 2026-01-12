@@ -6,50 +6,29 @@
       <table>
         <tbody>
           <tr>
-            <td style="background-color:#f0f0f0;">类目</td>
-            <td style="background-color:#f0f0f0;">目标</td>
-            <td style="background-color:#f0f0f0;">完成时间</td>
+            <td>Category</td>
+            <td>Goal</td>
+            <td>Completion Date</td>
           </tr>
           <tr>
-            <td>健康</td>
-            <td>10公里60分钟</td>
+            <td>Health</td>
+            <td>10km in 60 minutes</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>教育</td>
-            <td>硕士研究生</td>
+            <td>Education</td>
+            <td>Master's Degree</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td rowspan="3">资产</td>
-            <td>一亿美金</td>
+            <td rowspan="2">Assets</td>
+            <td>100 million USD</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>在中国境外拥有10平方公里的私人庄园</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>深圳400平方大平层</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td rowspan="4">奢侈品</td>
-            <td>美籍+中国永居</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>5.9米全尺寸SUV</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>理想MEGA（粤港澳黑牌）</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>Porsche 911 Targe</td>
+            <td>Shenzhen 400+ sqm luxury apartment</td>
             <td>&nbsp;</td>
           </tr>
         </tbody>
       </table>
-</figure>
+    </figure>
