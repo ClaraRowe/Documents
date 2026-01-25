@@ -1,9 +1,7 @@
 # LuoFeixiang's Documents
 
-## Record
-
-> [Five-year plans](documents/A00/) 
-> [人生攻略第一部 – 世界主观报告](documents/B01/)  
+> [五年规划](documents/A00/)   
+> [人生攻略第一部 – 主观报告](documents/B01/)  
 > [人生攻略第二部 – 如何获取文化资本？](documents/B02/)  
 > [人生攻略第三部 – 如何获取金钱资本？ -第一卷](documents/B0301/)  
 > [人生攻略第三部 – 如何获取金钱资本？ -第二卷](documents/B0302/)  
