@@ -2,10 +2,7 @@
 
 ## Record
 
-> [Five-year plans](documents/A00/)  
-
-## 论文
-
+> [Five-year plans](documents/A00/) 
 > [人生攻略第一部 – 世界主观报告](documents/B01/)  
 > [人生攻略第二部 – 如何获取文化资本？](documents/B02/)  
 > [人生攻略第三部 – 如何获取金钱资本？ -第一卷](documents/B0301/)  
